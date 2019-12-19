@@ -1,6 +1,6 @@
 # project2019
 Проект по автобрее
-***
+---
 Наш реферат:
 https://docs.google.com/document/d/1R7HlJfYacfCt1mAphw6W7jWzDpa4v5lNMXf4zmJglYk/edit
 ***
