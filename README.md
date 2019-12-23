@@ -23,3 +23,8 @@ https://docs.google.com/document/d/1R7HlJfYacfCt1mAphw6W7jWzDpa4v5lNMXf4zmJglYk/
 - Аня - подбор и реализация алгоритма классификации
 - Оля - Поиск тональных слов с помощью контрастных корпусов
 - Презентация (Никита?) 
+
+## Материалы по проекту 
+
+ https://drive.google.com/drive/folders/1QDL-s8HcE1wktSDeseuzOzl8DFXVbBZM
+ 
